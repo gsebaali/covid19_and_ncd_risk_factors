@@ -12,15 +12,15 @@ This will serve in raising awareness on COVID-19 NCD links (advocacy), spurring 
 
 
 __Data Sources:__
-Global Information System on Alcohol and Health (GISAH)
-Global Burden of Disease Collaborative Network.
-Global Burden of Disease Study 2017 (GBD 2017) Results.
-Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.
-Available from http://ghdx.healthdata.org/gbd-results-tool.
+- Global Information System on Alcohol and Health (GISAH)
+- Global Burden of Disease Collaborative Network.
+- Global Burden of Disease Study 2017 (GBD 2017) Results.
+- Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.
+- Available from http://ghdx.healthdata.org/gbd-results-tool.
 
 
 
 __Python Packages:__
-Arrays and data structures (pandas and numpy)
-Statistics (scipy.stats)
-Visualization (chart_studio, plotly, seaborn, matplotlib.pyplot)
+- Arrays and data structures (pandas and numpy)
+- Statistics (scipy.stats)
+- Visualization (chart_studio, plotly, seaborn, matplotlib.pyplot)
