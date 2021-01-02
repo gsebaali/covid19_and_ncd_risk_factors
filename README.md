@@ -1,4 +1,4 @@
-# Risk Factors --*work in progress*--
+# Risk Factors 
 Refer to [Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e88dcabf-f65c-4892-af54-3a9cb83774d7/view?access_token=fd4e2db7b16e03ad29ead730ea49e7690c35b095bea84cf4ac75f27a99a95722) to interact with the map and download the datasets
 
 ![map](map.png)
