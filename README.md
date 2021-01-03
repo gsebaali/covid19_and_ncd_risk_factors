@@ -5,7 +5,7 @@ Refer to [Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/66
 
 
 __Problem:__
-Building an NCD-vulnerability index that is calculated from risk factors and NCD prevalence indicators.
+Building an NCD-vulnerability index that is calculated from 22 different risk behavioral and metabolic risk factors and NCD prevalence indicators.
 
  
 This will serve in raising awareness on COVID-19 NCD links (advocacy), spurring debate, and informing policy decisions (possibly at a later stage, as we acquire better data and improve the index).
