@@ -20,7 +20,7 @@ __Data Sources:__
 
 __Methodology:__
 - Data collection of risk indicator information for different countries
-- Data cleaning (grouping of indicators into four groups: NCD, metabolic risk factor, behavior risk factor, and other - ensuring consistent country naming, fillinf in missing indicator data, normalizing data)
+- Data cleaning (grouping of indicators into four groups: NCD, metabolic risk factor, behavior risk factor, and other -- ensuring consistent country naming -- filling in missing indicator data -- normalizing data)
 - Calculating weighted and un-weighted vulneability index and ranking countries accordingly
 - Visualizing the data using on a map and further using a dashboard on Domo for further analysis, reporting and internal use by stakeholders
 
