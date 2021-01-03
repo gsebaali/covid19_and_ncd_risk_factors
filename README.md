@@ -4,10 +4,12 @@ Refer to [Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/66
 ![map](map.png)
 
 
+
 __Problem:__
 Building an NCD-vulnerability index that is calculated from 22 different risk behavioral and metabolic risk factors and NCD prevalence indicators.
 
 This will serve in raising awareness on COVID-19 NCD links (advocacy), spurring debate, and informing policy decisions (possibly at a later stage, as we acquire better data and improve the index).
+
 
 
 __Data Sources:__
@@ -18,11 +20,13 @@ __Data Sources:__
 - Available from http://ghdx.healthdata.org/gbd-results-tool.
 
 
+
 __Methodology:__
 - Data collection of risk indicator information for different countries
 - Data cleaning (grouping of indicators into four groups: NCD, metabolic risk factor, behavior risk factor, and other -- ensuring consistent country naming -- filling in missing indicator data -- normalizing data)
 - Calculating weighted and un-weighted vulneability index and ranking countries accordingly
 - Visualizing the data using on a map and further using a dashboard on Domo for further analysis, reporting and internal use by stakeholders
+
 
 
 __Python Packages:__
